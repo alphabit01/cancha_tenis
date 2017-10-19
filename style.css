@@ -1,0 +1,81 @@
+.base {
+	width: 758px;
+	height: 384px;
+	background-color: #8cb27c;
+	position: absolute;
+}
+
+.rectangulo{
+	width: 728px;
+	height: 352px;	
+	border: 3px solid white;
+	position: absolute;
+	top: 12px;
+	left: 12px;
+
+}
+
+.rectangulito1{
+	width: 80px;
+	height: 148px;
+	border: 3px solid white;
+	position: absolute;
+	top: 115px;
+	left: 12px;
+
+}
+
+.rectangulito2{
+	width: 80px;
+	height: 148px;
+	border: 3px solid white;
+	position: absolute;
+	top: 115px;
+	left: 660px;
+}
+
+.circulo{
+	width: 145px;
+	height: 145px;
+	border-radius: 50%;
+	border: 3px solid white;
+	margin: auto;
+	top: 115px;
+	position: relative;
+}
+
+.pelota1{
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	top: 117px;
+	left: 83px;
+	box-shadow: 1px 1px gray;
+
+}
+
+.pelota2{
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	top: 60px;
+	left: 390px;
+	box-shadow: 1px 1px gray;
+
+}
+
+.pelota3{
+	width: 18px;
+	height: 18px;
+	border-radius: 50%;
+	background-color: white;
+	position: absolute;
+	top: 240px;
+	left: 637px;
+	box-shadow: 1px 1px gray;
+
+}
